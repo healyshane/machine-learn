@@ -1,6 +1,6 @@
 #Shane Healy 22-SEP-2019
 
-n=20
+n=int(input("Enter No. "))
 
 # Keep looping until reach 1
 # Assumes the Collatz conjecture is true
